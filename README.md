@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate software developer</h3>
-<div align="center">
-  <h2 align="center">Sneha - Personal portfolio</h2>
-  <a href="https://kapa0029.github.io/"><strong>➥ Live Demo</strong></a>
-</div>
+<h4 align="center">Sneha - Personal portfolio</h4>
+<a href="https://kapa0029.github.io/"><strong>➥ Live Demo</strong></a>
+
 
 - 🔭 I’m currently working on **Data Analysis and Machine Learning**
 
