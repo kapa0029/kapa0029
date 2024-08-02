@@ -5,13 +5,11 @@
 <a href="https://kapa0029.github.io/" align = "center"><strong>➥ Live Demo</strong></a>
 </div>
 
-- 🔭 I’m currently working on **Data Analysis and Machine Learning**
+- 🔭 I’m currently working on **Java/SpringBoot**
 
-- 🌱 I’m currently learning **Scikit-Learn**
+- 👯 I’m looking to collaborate on **Java Development projects using Spring**
 
-- 👯 I’m looking to collaborate on **Data Analysis and Business Intelligence projects**
-
-- 💬 Ask me about **Java, Spring, Python**
+- 💬 Ask me about **Java, Spring, Python, JavaScript**
 
 - 📫 How to reach me **snehapatel4821@gmail.com**
 
